@@ -1,4 +1,4 @@
-1- execute python code that will generate one txt unicode file contain all ANSI csv files in the folder called 'output_all.txt'.
+1- execute python code 'main.py' file that will generate one txt unicode file contain all ANSI csv files in the folder called 'output_all.txt'.
 2- run DDL scripts to create all the needed schemas, tables, sequences, permisions.
 3- use CNTRL_DATA.ctl to load 'output_all.txt' file and change the dierctory in the control file to be pointed in output_all.txt file.
 4- use SME_PKG.pkb to build package and run it to have a Production normalized and cleaned data.
